@@ -1,0 +1,2 @@
+# sliders
+Programando sliders automatico
